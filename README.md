@@ -116,4 +116,4 @@ MIT License
 
 ---
 
-_© 2026 BendeharaKu — Hak cipta milik pengembang [Raditt10](https://github.com/Raditt10)._
+_© 2025 Hak cipta milik pengembang [Raditt10](https://github.com/Raditt10)._
