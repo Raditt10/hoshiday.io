@@ -32,7 +32,7 @@ Hoshi-Day.IO adalah "kalender hidup" untuk para fans pop-culture:
 - **Custom Toast & Loading:** Notifikasi error/sukses dan loading screen dengan efek video.
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **React.js** (SPA, komponen modular)
 - **Tailwind CSS** (utility-first styling)
 - **Framer Motion** (animasi & transisi)
