@@ -6,7 +6,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 🖼️ Preview
+## Preview
 
 <p align="center">
     <table>
@@ -22,7 +22,7 @@
 **Hoshi-Day.IO** adalah aplikasi web interaktif bertema "Phantom Thieves" untuk merayakan ulang tahun karakter anime & game favorit. Fitur utama: hitung mundur real-time, database karakter, QR Code share, dan UI stylish ala Persona 5.
 
 
-## 📌 Deskripsi Project
+## Deskripsi Project
 Hoshi-Day.IO adalah "kalender hidup" untuk para fans pop-culture:
 - **Mission Briefing:** Intro animasi dengan video & efek chroma key.
 - **Target Details Form:** Input nama target, tanggal lahir, dan pilih karakter pengantar.
@@ -41,30 +41,30 @@ Hoshi-Day.IO adalah "kalender hidup" untuk para fans pop-culture:
 - **Custom Hooks** (`useCountdown`)
 
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
-### 🕵️ Mission Briefing & Form
+### Mission Briefing & Form
 - Intro animasi video dengan efek green screen.
 - Form input: nama target, tanggal lahir, pilih karakter pengantar.
 
-### 📅 Character Roster & Search
+### Character Roster & Search
 - Grid avatar karakter, search bar real-time.
 - Pilihan karakter dari berbagai universe (Gojo, Levi, Eren, Leon, Caleb, dll).
 
-### ⏱️ Countdown Real-Time
+### Countdown Real-Time
 - Hitung mundur presisi (hari, jam, menit, detik).
 - Fase status: Calm, Intense, Critical, Imminent.
 - Visual dinamis sesuai karakter.
 
-### 📱 QR Code & Share
+### QR Code & Share
 - Generate QR Code unik untuk setiap countdown.
 - Modal share dengan copy link otomatis.
 
-### 🎨 UI/UX
+### UI/UX
 - Tema Persona 5: font Bangers, efek comic, animasi, loading screen video, toast notifikasi custom.
 
 
-## 📁 Struktur Folder (Ringkas)
+## Struktur Folder (Ringkas)
 
 ```text
 hoshi-day.io/
@@ -88,7 +88,7 @@ hoshi-day.io/
 ```
 
 
-## ⚙️ Instalasi & Setup
+## Instalasi & Setup
 
 1. **Clone repository & install dependensi**
     ```bash
@@ -101,19 +101,3 @@ hoshi-day.io/
     pnpm start # atau npm start
     ```
 3. Buka di browser: `http://localhost:3000`
-
-
-## 🤝 Kontribusi
-
-Ingin menambah karakter, fitur, atau memperbaiki bug?
-1. Fork repo ini
-2. Tambahkan karakter di `src/data/characters.js` & gambar di `public/avatar/`
-3. Pull Request
-
-
-## 📄 Lisensi
-MIT License
-
----
-
-_© 2025 Hak cipta milik pengembang [Raditt10](https://github.com/Raditt10)._
